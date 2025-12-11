@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+//i changed it at 15:42
 int a;
 printf("enter a value\n");
 scanf("%d",&a);
