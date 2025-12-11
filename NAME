@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main(){
+int a;
+printf("enter a value\n");
+scanf("%d",&a);
+printf("output\n");
+printf("%d",a+5);
+
+
+
+return 0;
+}
